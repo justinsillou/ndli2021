@@ -11,3 +11,11 @@
 - Que feriez-vous avec un diplôme d'ingénieur ?
 - C'était mieux avant 
 - Christmas egg
+
+### Le site 
+
+#### En local
+*Démarrer le serveur*
+```
+php -S 127.0.0.1:8080
+```
