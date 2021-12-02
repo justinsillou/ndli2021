@@ -8,7 +8,6 @@
 - Défi de la nuit (obligatoire)
 
 - Mettez de l'intelligence dans votre moteur
--
--
--
--
+- Que feriez-vous avec un diplôme d'ingénieur ?
+- C'était mieux avant 
+- Christmas egg
