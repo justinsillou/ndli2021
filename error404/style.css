@@ -27,13 +27,22 @@ body{
     left: 10px;
 }
 
-.obstacle {
+.marin{
     z-index: 2;
     position: absolute;
     width: 60px;
     height: 60px;
     background-image: url('img/Obs.png');
     bottom: 0px;
+  }
+
+.vol{
+    z-index: 2;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url('img/mouet.png');
+    bottom: 40px;
   }
 
 #Background,#Background2{
