@@ -7,7 +7,7 @@
 - Défi de la nuit (obligatoire)
 
 - Mettez de l'intelligence dans votre moteur
-- Que feriez-vous avec un diplôme d'ingénieur ?
+- Que feriez-vous avec un diplôme d'ingénieur ? (vidéo là https://we.tl/t-Yc7lHxCWK7)
 - C'était mieux avant 
 - Christmas egg
 
