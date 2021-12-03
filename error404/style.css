@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+}
+
+
+
+.Error404{
+
+}
+
+.gameContainer{
+    width: 75%;
+    height: 300px;
+    position: relative;
+    background-image: url('img/Background.png');
+    left: 15%;
+    overflow: hidden;
+}
+.boat{
+    z-index: 2;
+    position: absolute;
+    width: 60px;
+    height: 50px;    
+    background-image: url('img/batoC.png');
+    bottom: 2px;
+    left: 10px;
+}
+
+.obstacle {
+    z-index: 2;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-image: url('img/Obs.png');
+    bottom: 0px;
+  }
+
+#Background,#Background2{
+    z-index: 0;
+    position: absolute;
+    background-image: url('img/Background1.png');
+    background-repeat: repeat-x;
+    animation: slideshow 6s linear infinite;
+    width: 200%;
+    height: 200px;
+    bottom: 0px;
+}
+
+div#Background2{
+    z-index: 4;
+    background-image: url('img/Background2.png');
+    position: absolute;
+    background-repeat: repeat-x;
+    animation: slideshow 6s linear infinite;
+    width: 200%;
+    height: 200px;
+    bottom: 0px;
+}
+
+@keyframes slideshow {
+    0%    { left: 0; }
+    100%  { left: -100%; }
+}
+
+#go{
+    visibility: hidden;
+    z-index: 3;
+    position: absolute;
+    bottom: 50%;
+    left: 40%;
+}
