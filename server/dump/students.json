@@ -1,0 +1,12 @@
+{"_id":{"$oid":"606c7c439555b79215474a43"},"firstNames":["Ludovic","Loïc"],"lastName":"CHOMBEAU","nip":"555","__v":0}
+{"_id":{"$oid":"606b1005cbbb57b184995778"},"firstNames":["Antoine"],"lastName":"NOLLET","nip":"284","__v":0}
+{"_id":{"$oid":"606c781830322e842c7b706d"},"firstNames":["Jean-christophe"],"lastName":"ROUTIER","nip":"777","__v":0}
+{"_id":{"$oid":"606c783130322e842c7b706e"},"firstNames":["Jean-stéphane"],"lastName":"VARRE","nip":"123","__v":0}
+{"_id":{"$oid":"606c788130322e842c7b706f"},"firstNames":["Marie-émilie"],"lastName":"VOGE","nip":"111","__v":0}
+{"_id":{"$oid":"606c78c330322e842c7b7070"},"firstNames":["Eric"],"lastName":"WEGRZYNOWSKI","nip":"153","__v":0}
+{"_id":{"$oid":"606c78dd30322e842c7b7071"},"firstNames":["Benoît"],"lastName":"PAPEGAY","nip":"422","__v":0}
+{"_id":{"$oid":"606c78f930322e842c7b7072"},"firstNames":["Francisco"],"lastName":"DE COMITÉ","nip":"684","__v":0}
+{"_id":{"$oid":"606c790d30322e842c7b7073"},"firstNames":["Léopold"],"lastName":"WEINBERG","nip":"5421","__v":0}
+{"_id":{"$oid":"606c795930322e842c7b7074"},"firstNames":["Adrien"],"lastName":"POTEAUX","nip":"312","__v":0}
+{"_id":{"$oid":"606c798930322e842c7b7075"},"firstNames":["Philippe"],"lastName":"MATHIEU","nip":"4269","__v":0}
+{"_id":{"$oid":"606c7b1430322e842c7b7076"},"firstNames":["Bruno"],"lastName":"BOGAERT","nip":"351","__v":0}

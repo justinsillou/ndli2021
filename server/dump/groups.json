@@ -1,0 +1,5 @@
+{"_id":{"$oid":"605e2c762b97b591f7642e37"},"number":1,"student":{"$oid":"606c7c439555b79215474a43"},"__v":0}
+{"_id":{"$oid":"605e2c922b97b591f7642e38"},"number":1,"student":{"$oid":"606b1005cbbb57b184995778"},"__v":0}
+{"_id":{"$oid":"605e2ca62b97b591f7642e39"},"number":1,"student":{"$oid":"606c798930322e842c7b7075"},"__v":0}
+{"_id":{"$oid":"605e2cb42b97b591f7642e3a"},"number":5,"student":{"$oid":"606c790d30322e842c7b7073"},"__v":0}
+{"_id":{"$oid":"605e2cc32b97b591f7642e3b"},"number":6,"student":{"$oid":"606c7b1430322e842c7b7076"},"__v":0}

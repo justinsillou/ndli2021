@@ -1,0 +1,17 @@
+body {
+  overflow-y: scroll;
+}
+
+svg {
+  vertical-align: -0.15em;
+  margin: 0 0.2em;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+h2 {
+  margin-bottom: 0.8em;
+}
