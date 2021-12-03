@@ -2,8 +2,24 @@ import { HiUserGroup } from 'react-icons/hi'
 
 const students = [
   {
-    firstName: 'Completer',
-    lastName: 'A',
+    firstName: 'Anouk',
+    lastName: 'Bachelet',
+  },
+  {
+    firstName: 'Damien',
+    lastName: 'Gournay',
+  },
+  {
+    firstName: 'Mathilde',
+    lastName: 'Minaud',
+  },
+  {
+    firstName: 'Antoine',
+    lastName: 'Nollet',
+  },
+  {
+    firstName: 'Justin',
+    lastName: 'Sillou',
   },
 ]
 
