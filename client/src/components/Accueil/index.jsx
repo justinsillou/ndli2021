@@ -1,4 +1,4 @@
-import Trinome from './Trinome'
+import Equipe from './Equipe'
 import { TiHome } from 'react-icons/ti'
 
 const Accueil = () => (
@@ -7,8 +7,8 @@ const Accueil = () => (
       <TiHome />
       Accueil
     </h2>
-    <p>Projet de JSFS, réalisé avec ❤ en télétravail.</p>
-    <Trinome />
+    <p>Nuit de l'info, réalisé avec ❤ par l'équipe Roquo.</p>
+    <Equipe />
   </>
 )
 

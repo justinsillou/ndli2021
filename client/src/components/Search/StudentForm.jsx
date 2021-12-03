@@ -37,11 +37,11 @@ const StudentForm = ({ onAdd, onEdit, student }) => {
     <div className="mb-5">
       <h2>
         <BsPersonPlusFill />
-        {edit ? 'Éditer' : 'Ajouter'} un étudiant
+        {edit ? 'Éditer' : 'Ajouter'} un sauveteur
       </h2>
       <form onSubmit={handleSubmit} method={edit ? 'PUT' : 'POST'}>
         <Input
-          label="Nip"
+          label="A compléter"
           placeholder="1638"
           name="nip"
           onChange={handleChange}

@@ -26,7 +26,7 @@ const StudentsList = ({ students, onDelete, onEdit }) => {
     <>
       <h2>
         <BsListUl />
-        Liste des étudiants
+        Liste des sauveteurs
       </h2>
       {students?.length ? (
         <StudentsTable students={students} actions={actions} />
