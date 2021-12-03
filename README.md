@@ -17,6 +17,8 @@
 *Démarrer le serveur*
 ```
 cd server
+mongod --dbpath data 
+
 npm i
 npm run
 ```
